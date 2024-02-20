@@ -1,4 +1,4 @@
-#Bisection method
+#Bisection method - to find the root of the equation x^2-4x- 10=0
 x1=float(input("x1="))
 x2=float(input("x2="))
 x0=(x1+x2)/2
