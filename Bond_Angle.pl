@@ -1,3 +1,4 @@
+#to extract bond lengths, bond angles and the main chain dihedrals 
 #Calculation of bond angle:
 ################################################
 open (G ,"diala.sd") or die "FNF\n";
